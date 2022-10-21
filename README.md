@@ -8,7 +8,7 @@ Scan local networks and spoof devices within that network...
 If possible that you don't have any of these common libraries, then install them. For security purposes, the libraries will not be given explicably...
 
 ## Sources
-This program potentially works in fully functional Python environments. Datasets must not be used for illegal purposes but only for penetration testing only and educational purposes as well.  
+This program potentially works in fully functional Python environments. Datasets must not be used for illegal purposes but only for penetration testing and educational purposes as well.  
 
 ## Usage
 This program uses only two commands to work. Note that CLI is not possible so you only need to run the program with ease.
